@@ -15,5 +15,5 @@ O Behave é uma biblioteca Python que permite a escrita de specs em linguagem hu
 * `make install`
 
 ## Execução
-Após seguir os passos da instalação, executar o jupyter
+Após seguir os passos da instalação, executar o jupyter</br>
 `jupyter notebook`

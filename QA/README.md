@@ -4,4 +4,4 @@ Conceitos introdutórios ou passo-a-passo de processos rotineiros de QA, utiliza
 
 ## Técnicas
 
-[BDD](/BDD/README.md)
+[BDD](/QA/BDD)
