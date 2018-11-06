@@ -4,5 +4,6 @@ Conceitos introdutórios ou passo-a-passo de processos rotineiros, utilizando ju
 
 ## Áreas
 
-[QA](/QA/README.md) </br>
-[Dev](/Dev/README.MD)
+* [QA](/QA/README.md) </br>
+* [Dev](/Dev/README.MD) </br>
+* [DevOps](/DevOps/README.MD)
