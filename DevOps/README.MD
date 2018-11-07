@@ -4,4 +4,4 @@ Conceitos introdutórios ou passo-a-passo de processos rotineiros para DevOps, u
 
 ## Tópicos
 
-* Troubleshooting
+[Troubleshooting](/DevOps/Troubleshooting)
