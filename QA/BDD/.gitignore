@@ -7,3 +7,5 @@ features/
 # virtualenv
 venv/
 
+# reports
+reports/
