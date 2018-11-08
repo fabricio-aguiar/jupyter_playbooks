@@ -1,3 +1,4 @@
+allure-behave==2.5.3
 allure-python-commons==2.5.3
 attrs==18.2.0
 backcall==0.1.0
